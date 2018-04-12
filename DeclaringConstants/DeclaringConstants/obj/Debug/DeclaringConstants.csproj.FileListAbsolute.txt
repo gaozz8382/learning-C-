@@ -1,0 +1,6 @@
+E:\Demo Code\C#\DeclaringConstants\DeclaringConstants\bin\Debug\DeclaringConstants.exe.config
+E:\Demo Code\C#\DeclaringConstants\DeclaringConstants\bin\Debug\DeclaringConstants.exe
+E:\Demo Code\C#\DeclaringConstants\DeclaringConstants\bin\Debug\DeclaringConstants.pdb
+E:\Demo Code\C#\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.csprojResolveAssemblyReference.cache
+E:\Demo Code\C#\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.exe
+E:\Demo Code\C#\DeclaringConstants\DeclaringConstants\obj\Debug\DeclaringConstants.pdb

@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2013\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe.config
+c:\users\user\documents\visual studio 2013\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe
+c:\users\user\documents\visual studio 2013\Projects\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.pdb
+c:\users\user\documents\visual studio 2013\Projects\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.exe
+c:\users\user\documents\visual studio 2013\Projects\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.pdb
+E:\Demo Code\C#\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe.config
+E:\Demo Code\C#\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.exe
+E:\Demo Code\C#\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.pdb
+E:\Demo Code\C#\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.exe
+E:\Demo Code\C#\RectangleApplication\RectangleApplication\bin\Debug\RectangleApplication.pdb
+E:\Demo Code\C#\RectangleApplication\RectangleApplication\obj\Debug\RectangleApplication.csprojResolveAssemblyReference.cache

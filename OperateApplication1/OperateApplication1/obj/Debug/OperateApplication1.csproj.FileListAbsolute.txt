@@ -1,0 +1,5 @@
+E:\Demo Code\C#\OperateApplication1\OperateApplication1\bin\Debug\OperateApplication1.exe.config
+E:\Demo Code\C#\OperateApplication1\OperateApplication1\bin\Debug\OperateApplication1.exe
+E:\Demo Code\C#\OperateApplication1\OperateApplication1\bin\Debug\OperateApplication1.pdb
+E:\Demo Code\C#\OperateApplication1\OperateApplication1\obj\Debug\OperateApplication1.exe
+E:\Demo Code\C#\OperateApplication1\OperateApplication1\obj\Debug\OperateApplication1.pdb

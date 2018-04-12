@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2013\Projects\DataTypeApplication\DataTypeApplication\bin\Debug\DataTypeApplication.exe.config
+c:\users\user\documents\visual studio 2013\Projects\DataTypeApplication\DataTypeApplication\bin\Debug\DataTypeApplication.exe
+c:\users\user\documents\visual studio 2013\Projects\DataTypeApplication\DataTypeApplication\bin\Debug\DataTypeApplication.pdb
+c:\users\user\documents\visual studio 2013\Projects\DataTypeApplication\DataTypeApplication\obj\Debug\DataTypeApplication.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\DataTypeApplication\DataTypeApplication\obj\Debug\DataTypeApplication.exe
+c:\users\user\documents\visual studio 2013\Projects\DataTypeApplication\DataTypeApplication\obj\Debug\DataTypeApplication.pdb
+E:\Demo Code\C#\DataTypeApplication\DataTypeApplication\bin\Debug\DataTypeApplication.exe.config
+E:\Demo Code\C#\DataTypeApplication\DataTypeApplication\obj\Debug\DataTypeApplication.exe
+E:\Demo Code\C#\DataTypeApplication\DataTypeApplication\obj\Debug\DataTypeApplication.pdb
